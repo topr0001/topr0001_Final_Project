@@ -1,0 +1,1 @@
+alias FinalProject="cd ~/Desktop/Documents/topr0001_Final_Project"
